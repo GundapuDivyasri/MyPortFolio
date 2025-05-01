@@ -3,7 +3,7 @@ import React from "react";
 const certifications = [
   {
     title: "AWS Internship",
-    image: "/images/AWS-Internship certificate1.jpg",
+    image: "/images/aws-internshipcertificate1.jpg",
   },
   {
     title: "Python Foundation",
@@ -11,7 +11,7 @@ const certifications = [
   },
   {
     title: "AWS-Cloud Computing",
-    image: "/images/AWS_certificate.jpg",
+    image: "/images/aws_certificate.jpg",
   },
   {
     title: "Nptel-Cloud Computing",
