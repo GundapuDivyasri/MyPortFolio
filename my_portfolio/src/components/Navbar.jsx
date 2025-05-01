@@ -32,6 +32,12 @@ const Navbar = () => {
             Contact
           </li>
         </a>
+        <a href="#Certificates">
+          <li className="text-md transition-all duration-300 p-1 md:p-0">
+            Certifications
+          </li>
+        </a>
+        
       </ul>
       {showMenu ? (
         <RiMenu2Line
