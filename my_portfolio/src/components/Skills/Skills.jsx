@@ -54,7 +54,7 @@ const Skills = () => {
             <li>- Operating Systems (OS)</li>
             <li>- Computer Networks (CN)</li>
             <li>- Data Structures and Algorithms (DSA)</li>
-            <li>- Dense Wavelength Division Multiplexing (DWDM)</li>
+            <li>- Data Base Management System  (DBMS)</li>
           </ul>
         </div>
       </div>
